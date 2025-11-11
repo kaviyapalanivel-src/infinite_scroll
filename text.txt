@@ -1,0 +1,100 @@
+Line 001: Sample content for infinite scroll demonstration.
+Line 002: This file contains multiple lines to emulate paginated data.
+Line 003: Each line can be treated as an item in a list or feed.
+Line 004: Use this text to test fetching and rendering more items on demand.
+Line 005: Placeholder content — replace with real data as needed.
+Line 006: Item 6 — quick example line for scrolling tests.
+Line 007: Item 7 — ensure your loader triggers when nearing the end.
+Line 008: Item 8 — verify deduplication and ordering logic.
+Line 009: Item 9 — simulate network delays and loading states.
+Line 010: Item 10 — check for smooth rendering and virtualization.
+Line 011: Entry 11: small content chunk.
+Line 012: Entry 12: small content chunk.
+Line 013: Entry 13: small content chunk.
+Line 014: Entry 14: small content chunk.
+Line 015: Entry 15: small content chunk.
+Line 016: Entry 16: small content chunk.
+Line 017: Entry 17: small content chunk.
+Line 018: Entry 18: small content chunk.
+Line 019: Entry 19: small content chunk.
+Line 020: Entry 20: small content chunk.
+Line 021: Post 21 — sample text.
+Line 022: Post 22 — sample text.
+Line 023: Post 23 — sample text.
+Line 024: Post 24 — sample text.
+Line 025: Post 25 — sample text.
+Line 026: Post 26 — sample text.
+Line 027: Post 27 — sample text.
+Line 028: Post 28 — sample text.
+Line 029: Post 29 — sample text.
+Line 030: Post 30 — sample text.
+Line 031: Record 31 — test entry.
+Line 032: Record 32 — test entry.
+Line 033: Record 33 — test entry.
+Line 034: Record 34 — test entry.
+Line 035: Record 35 — test entry.
+Line 036: Record 36 — test entry.
+Line 037: Record 37 — test entry.
+Line 038: Record 38 — test entry.
+Line 039: Record 39 — test entry.
+Line 040: Record 40 — test entry.
+Line 041: Item 41 — continue scrolling.
+Line 042: Item 42 — continue scrolling.
+Line 043: Item 43 — continue scrolling.
+Line 044: Item 44 — continue scrolling.
+Line 045: Item 45 — continue scrolling.
+Line 046: Item 46 — continue scrolling.
+Line 047: Item 47 — continue scrolling.
+Line 048: Item 48 — continue scrolling.
+Line 049: Item 49 — continue scrolling.
+Line 050: Item 50 — continue scrolling.
+Line 051: Sample 51 — placeholder content.
+Line 052: Sample 52 — placeholder content.
+Line 053: Sample 53 — placeholder content.
+Line 054: Sample 54 — placeholder content.
+Line 055: Sample 55 — placeholder content.
+Line 056: Sample 56 — placeholder content.
+Line 057: Sample 57 — placeholder content.
+Line 058: Sample 58 — placeholder content.
+Line 059: Sample 59 — placeholder content.
+Line 060: Sample 60 — placeholder content.
+Line 061: Demo 61 — infinite scroll test.
+Line 062: Demo 62 — infinite scroll test.
+Line 063: Demo 63 — infinite scroll test.
+Line 064: Demo 64 — infinite scroll test.
+Line 065: Demo 65 — infinite scroll test.
+Line 066: Demo 66 — infinite scroll test.
+Line 067: Demo 67 — infinite scroll test.
+Line 068: Demo 68 — infinite scroll test.
+Line 069: Demo 69 — infinite scroll test.
+Line 070: Demo 70 — infinite scroll test.
+Line 071: Feed 71 — sample feed item.
+Line 072: Feed 72 — sample feed item.
+Line 073: Feed 73 — sample feed item.
+Line 074: Feed 74 — sample feed item.
+Line 075: Feed 75 — sample feed item.
+Line 076: Feed 76 — sample feed item.
+Line 077: Feed 77 — sample feed item.
+Line 078: Feed 78 — sample feed item.
+Line 079: Feed 79 — sample feed item.
+Line 080: Feed 80 — sample feed item.
+Line 081: Text 81 — filler line.
+Line 082: Text 82 — filler line.
+Line 083: Text 83 — filler line.
+Line 084: Text 84 — filler line.
+Line 085: Text 85 — filler line.
+Line 086: Text 86 — filler line.
+Line 087: Text 87 — filler line.
+Line 088: Text 88 — filler line.
+Line 089: Text 89 — filler line.
+Line 090: Text 90 — filler line.
+Line 091: Bottom 91 — end marker if used.
+Line 092: Bottom 92 — end marker if used.
+Line 093: Bottom 93 — end marker if used.
+Line 094: Bottom 94 — end marker if used.
+Line 095: Bottom 95 — end marker if used.
+Line 096: Bottom 96 — end marker if used.
+Line 097: Bottom 97 — end marker if used.
+Line 098: Bottom 98 — end marker if used.
+Line 099: Bottom 99 — end marker if used.
+Line 100: Bottom 100 — final sample line.
